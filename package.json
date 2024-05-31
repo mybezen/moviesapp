@@ -39,7 +39,7 @@
     "type": "git",
     "url": "git+https://github.com/mybezen/moviesapp.git"
   },
-  "author": "Zen",
+  "author": "mybezen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mybezen/moviesapp/issues"
